@@ -7,7 +7,7 @@
         "dev": "nodemon index.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "Harsh Vanetiya",
     "license": "ISC",
     "description": "",
     "dependencies": {
